@@ -25993,5 +25993,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Yield BTC.B",
+    "symbol": "YBTC.B",
+    "address": "0x2cd3cdb3bd68eea0d3be81da707bc0c8743d7335",
+    "decimals": 8,
+    "chainId": 43114,
+    "tags": []
   }
 ]
