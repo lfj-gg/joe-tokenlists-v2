@@ -26001,5 +26001,13 @@
     "decimals": 8,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "XPower",
+    "symbol": "XPOW",
+    "address": "0x8f0a35cabd10e830c8c10629cf539c2e0f1f3481",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
