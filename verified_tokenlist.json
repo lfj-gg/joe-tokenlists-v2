@@ -26001,5 +26001,13 @@
     "decimals": 8,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "APower",
+    "symbol": "APOW",
+    "address": "0xf3dd4e0a1db7c5dcbf3b225698cb6a916aeb24d9",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
