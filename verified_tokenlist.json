@@ -26001,5 +26001,13 @@
     "decimals": 8,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "RED PEPE",
+    "symbol": "RPEPE",
+    "address": "0x694207a9f708355ee3119f11e55bc5c0b1845ba2",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
