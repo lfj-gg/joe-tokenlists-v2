@@ -26001,5 +26001,13 @@
     "decimals": 8,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "For Community",
+    "symbol": "FCO",
+    "address": "0x4bc422f8ee0da4875d0af73faa0a162517d47b68",
+    "decimals": 18,
+    "chainId": 10143,
+    "tags": []
   }
 ]
