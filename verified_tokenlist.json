@@ -26001,5 +26001,13 @@
     "decimals": 8,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Limbo",
+    "symbol": "LIMBO",
+    "address": "0x3e5b9c8930ecab017e16c3b7a2d0cb746d8bcdcf",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
