@@ -26009,5 +26009,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "MoomTown ERC-20 Token",
+    "symbol": "MOOM",
+    "address": "0xccb9819bb45582fbf85aa1b2e3ce4748e2361f9a",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
