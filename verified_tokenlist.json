@@ -26009,5 +26009,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "JUCi",
+    "symbol": "JUCI",
+    "address": "0xf1f629b66fa94027c2e66aaf4204363a8e290831",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
