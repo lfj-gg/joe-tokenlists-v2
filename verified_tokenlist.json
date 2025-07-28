@@ -26009,5 +26009,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Sai-Fi",
+    "symbol": "SAI",
+    "address": "0x796beb1231812b375b76e2a734e8954155d90005",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
