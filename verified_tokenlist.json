@@ -26009,5 +26009,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Mint Monad",
+    "symbol": "NFT",
+    "address": "0xb5e5fa5837304fea6b9ce7e09623e63669ad95fb",
+    "decimals": 6,
+    "chainId": 10143,
+    "tags": []
   }
 ]
