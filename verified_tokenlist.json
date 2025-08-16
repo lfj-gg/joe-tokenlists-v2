@@ -26009,5 +26009,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Fuel",
+    "symbol": "FUEL",
+    "address": "0x29fbb1569364ac8cc48851bd5e144faa2a78f528",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
