@@ -26009,5 +26009,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "CDK",
+    "symbol": "CDK",
+    "address": "0x108468885eba2932901d409af6bf97bf9c3eda50",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
