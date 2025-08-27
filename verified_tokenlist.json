@@ -26025,5 +26025,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Death at the Claw Machine",
+    "symbol": "DATCM",
+    "address": "0x655718b81b001d14e15b93e71d0f69e247406823",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
