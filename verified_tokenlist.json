@@ -26025,5 +26025,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "XROSS Token",
+    "symbol": "XROSS",
+    "address": "0x463e8471cf269e3ef5b5ebbce889fac1caae1fdc",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
