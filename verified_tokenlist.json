@@ -26025,5 +26025,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Upload1983",
+    "symbol": "YOU",
+    "address": "0x64e6518ad501e5f2f3e3335726d4c2188be36a48",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
