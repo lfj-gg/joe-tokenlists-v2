@@ -26025,5 +26025,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "XAUt0",
+    "symbol": "XAUt0",
+    "address": "0x2775d5105276781b4b85ba6ea6a6653beed1dd32",
+    "decimals": 6,
+    "chainId": 43114,
+    "tags": []
   }
 ]
