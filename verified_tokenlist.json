@@ -26033,5 +26033,13 @@
     "decimals": 6,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Smol Token",
+    "symbol": "SMOL",
+    "address": "0x0e2fbbd30371f6e0b68d5dc572751bcad8c0b048",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
