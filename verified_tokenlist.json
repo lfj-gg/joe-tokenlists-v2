@@ -26033,5 +26033,13 @@
     "decimals": 6,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Staked YUSD",
+    "symbol": "sYUSD",
+    "address": "0x85636bf94ea95c32e945b0db30a7cdc614f2691e",
+    "decimals": 18,
+    "chainId": 56,
+    "tags": []
   }
 ]
