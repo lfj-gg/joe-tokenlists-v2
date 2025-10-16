@@ -26041,5 +26041,13 @@
     "decimals": 18,
     "chainId": 56,
     "tags": []
+  },
+  {
+    "name": "Sierra",
+    "symbol": "SIERRA",
+    "address": "0x6e6080e15f8c0010d333d8caeead29292adb78f7",
+    "decimals": 6,
+    "chainId": 43114,
+    "tags": []
   }
 ]
