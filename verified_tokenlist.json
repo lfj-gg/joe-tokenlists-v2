@@ -26057,5 +26057,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "Ushkee",
+    "symbol": "Ush",
+    "address": "0x013119af52a20c982e11ec8af1599c40ef9e0dad",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
