@@ -26057,5 +26057,13 @@
     "decimals": 18,
     "chainId": 43114,
     "tags": []
+  },
+  {
+    "name": "USDe",
+    "symbol": "USDe",
+    "address": "0x5d3a1ff2b6bab83b63cd9ad0787074081a52ef34",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
