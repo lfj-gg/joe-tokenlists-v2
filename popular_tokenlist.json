@@ -1308,7 +1308,7 @@
     "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
     "symbol": "USDC",
     "decimals": 6,
-    "chainId": 143
+    "chainId": 143,
     "tags": []
   },
   {
@@ -1316,7 +1316,7 @@
     "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
     "symbol": "aUSD",
     "decimals": 6,
-    "chainId": 143
+    "chainId": 143,
     "tags": []
   }
 ]
