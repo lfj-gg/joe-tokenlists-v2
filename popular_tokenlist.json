@@ -1295,5 +1295,12 @@
     "decimals": 18,
     "tags": []
   },
-  
+  {
+    "name": "USD Coin",
+    "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 143
+    "tags": []
+},
 ]
