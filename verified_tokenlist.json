@@ -26074,13 +26074,15 @@
     "chainId": 43114,
     "tags": []
   },
+  {
     "name": "MON",
     "symbol": "MON",
     "address": "0x0000000000000000000000000000000000000000",
+    "chainId": 134,
     "decimals": 18,
-    "chainId": 143,
     "tags": []
-  {,
+  },
+  {
     "name": "Wrapped Mon",
     "address": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
     "symbol": "WMON",
