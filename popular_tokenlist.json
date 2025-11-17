@@ -1302,5 +1302,13 @@
     "decimals": 6,
     "chainId": 143
     "tags": []
-},
+  },
+  {
+    "name": "Agora USD",
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "symbol": "aUSD",
+    "decimals": 6,
+    "chainId": 143
+    "tags": []
+  }
 ]
