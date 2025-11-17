@@ -1286,5 +1286,37 @@
     "chainId": 146,
     "decimals": 18,
     "tags": []
+  },
+  {
+    "name": "MON",
+    "symbol": "MON",
+    "address": "0x0000000000000000000000000000000000000000",
+    "chainId": 143,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "Wrapped Mon",
+    "address": "0x3bd359C1119dA7Da1D913D1C4D2B7c461115433A",
+    "symbol": "WMON",
+    "chainId": 143,
+    "decimals": 18,
+    "tags": []
+  },
+  {
+    "name": "USD Coin",
+    "address": "0x754704Bc059F8C67012fEd69BC8A327a5aafb603",
+    "symbol": "USDC",
+    "decimals": 6,
+    "chainId": 143,
+    "tags": []
+  },
+  {
+    "name": "Agora USD",
+    "address": "0x00000000eFE302BEAA2b3e6e1b18d08D69a9012a",
+    "symbol": "aUSD",
+    "decimals": 6,
+    "chainId": 143,
+    "tags": []
   }
 ]
