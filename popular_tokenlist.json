@@ -1291,7 +1291,7 @@
     "name": "MON",
     "symbol": "MON",
     "address": "0x0000000000000000000000000000000000000000",
-    "chainId": 134,
+    "chainId": 143,
     "decimals": 18,
     "tags": []
   },
