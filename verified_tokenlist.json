@@ -26161,5 +26161,53 @@
     "decimals": 18,
     "chainId": 143,
     "tags": []
+  },
+  {
+    "name": "Kintsu Staked Monad",
+    "address": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
+    "symbol": "sMON",
+    "decimals": 18,
+    "chainId": 143,
+    "tags": []
+  },
+  {
+    "name": "aPriori Monad LST",
+    "address": "0x0c65A0BC65a5D819235B71F554D210D3F80E0852",
+    "symbol": "aprMON",
+    "decimals": 18,
+    "chainId": 143,
+    "tags": []
+  },
+  {
+    "name": "ShMonad",
+    "address": "0x1B68626dCa36c7fE922fD2d55E4f631d962dE19c",
+    "symbol": "shMON",
+    "decimals": 18,
+    "chainId": 143,
+    "tags": []
+  },
+  {
+    "name": "gMON",
+    "address": "0x8498312A6B3CbD158bf0c93AbdCF29E6e4F55081",
+    "symbol": "gMON",
+    "decimals": 18,
+    "chainId": 143,
+    "tags": []
+  },
+  {
+    "name": "Bitcoin",
+    "address": "0xB0F70C0bD6FD87dbEb7C10dC692a2a6106817072",
+    "symbol": "BTC.b",
+    "decimals": 8,
+    "chainId": 143,
+    "tags": []
+  },
+  {
+    "name": "JOE token",
+    "address": "0x371c7ec6D8039ff7933A2AA28EB827Ffe1F52f07",
+    "symbol": "JOE",
+    "decimals": 18,
+    "chainId": 143,
+    "tags": []
   }
 ]
