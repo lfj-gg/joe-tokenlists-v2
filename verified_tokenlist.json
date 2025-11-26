@@ -26107,6 +26107,14 @@
     "tags": []
   },
   {
+    "name": "CHOG",
+    "symbol": "CHOG",
+    "address": "0x350035555e10d9afaf1566aaebfced5ba6c27777",
+    "decimals": 18,
+    "chainId": 143,
+    "tags": []
+  },
+  {
     "name": "Wrapped ETH",
     "address": "0xEE8c0E9f1BFFb4Eb878d8f15f368A02a35481242",
     "symbol": "WETH",
