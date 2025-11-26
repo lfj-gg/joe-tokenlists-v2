@@ -1320,14 +1320,6 @@
     "tags": []
   },
   {
-    "name": "CHOG",
-    "symbol": "CHOG",
-    "address": "0x350035555e10d9afaf1566aaebfced5ba6c27777",
-    "decimals": 18,
-    "chainId": 143,
-    "tags": []
-  },
-  {
     "name": "Kintsu Staked Monad",
     "symbol": "sMON",
     "address": "0xA3227C5969757783154C60bF0bC1944180ed81B9",
