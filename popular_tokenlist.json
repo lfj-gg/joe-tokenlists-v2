@@ -1342,5 +1342,13 @@
     "decimals": 18,
     "chainId": 143,
     "tags": []
+  },
+  {
+    "name": "Joe Token",
+    "address": "0x371c7ec6D8039ff7933a2AA28EB827Ffe1F52f07",
+    "symbol": "JOE",
+    "decimals": 18,
+    "chainId": 143
+    "tags": []
   }
 ]
