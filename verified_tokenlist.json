@@ -8584,6 +8584,14 @@
     "tags": []
   },
   {
+    "name": "Crypto Factor",
+    "symbol": "CFR",
+    "address": "0x60d711befe4a584c7bb08de9f09d5deb9f8dc947",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
+  },
+  {
     "name": "WAI Combinator by Virtuals",
     "symbol": "WAI",
     "address": "0x6112b8714221bbd96ae0a0032a683e38b475d06c",
