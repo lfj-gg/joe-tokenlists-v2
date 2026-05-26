@@ -1358,5 +1358,13 @@
     "decimals": 8,
     "chainId": 143,
     "tags": []
+  },
+  {
+    "name": "Crypto Factor",
+    "symbol": "CFR",
+    "address": "0x60d711bEFE4A584c7BB08de9F09D5Deb9F8dc947",
+    "decimals": 18,
+    "chainId": 43114,
+    "tags": []
   }
 ]
