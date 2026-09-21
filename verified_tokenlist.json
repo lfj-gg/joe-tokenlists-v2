@@ -11032,6 +11032,14 @@
     "tags": []
   },
   {
+  "name": "SPACEM WORLD",
+  "symbol": "SPCM",
+  "address": "0x7cc9c624efa62c2decf0a2a028f7885ecea95a17",
+  "decimals": 18,
+  "chainId": 43114,
+  "tags": []
+},
+  {
     "name": "BSKT",
     "symbol": "BSKT",
     "address": "0x7ccdba6198db389cf37b714fd6573b73f3670236",
